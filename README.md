@@ -36,7 +36,7 @@ Edit
 A custom image dataset of hand gestures organized into 8 gesture classes.  
 **Note:** The dataset is hosted externally due to size constraints.
 
-👉 [Download Dataset (Google Drive)](https://drive.google.com/yourlinkhere)
+👉 [Download Dataset (Google Drive)](https://drive.google.com/drive/folders/1tnRa8I22nQzZWIeSaqLR3qsZteurIdez?usp=drive_link)
 
 ---
 
